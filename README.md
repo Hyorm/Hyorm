@@ -19,7 +19,7 @@ Also I Loves travel & volunteer around the world:green_heart:
 - [Java] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 - [Web] [Big Data Analyzer](https://github.com/Hyorm/Web)
 - [OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
-- [C, C++, Software Testing] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/Hyorm/Hyorm/blob/main/README.md#page_facing_uppaper)
+- [C, C++, Software Testing] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/Hyorm/Hyorm/blob/main/README.md#page_facing_uppaper) (Paper)
 - [C, C++, Software Testing] [Fuzzing Algorithm Analysis](https://github.com/Hyorm/RA_fuzzing)
 - [OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
 
