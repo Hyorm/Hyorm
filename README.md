@@ -16,12 +16,12 @@ Also I Loves travel & volunteer around the world:green_heart:
 - DBA: OS(Mac, Linux, Window), SQL(MySql, etc.)
 
 ### :sparkles:Projects
-- [Java] Jenetics Algorithm with TSP problem<br><https://github.com/Hyorm/TSP_Genetics>
-- [Web] Big Data Analyzer<br><https://github.com/Hyorm/Web>
-- [OODP] Data-based Costume Recommender<br><https://github.com/Hyorm/CLTRec_18>    
-- [C, C++, Software Testing] Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System (Paper)
-- [C, C++, Software Testing] Fuzzing Algorithm Analysis<br><https://github.com/Hyorm/RA_fuzzing>    
-- [OpenGL] Save the Arctic<br><https://github.com/Hyorm/Save_the_Arctic>    
+- [Java] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
+- [Web] [Big Data Analyzer](https://github.com/Hyorm/Web)
+- [OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
+- [C, C++, Software Testing] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/Hyorm/Hyorm/blob/main/README.md#page_facing_uppaper)
+- [C, C++, Software Testing] [Fuzzing Algorithm Analysis](https://github.com/Hyorm/RA_fuzzing)
+- [OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
 
 ### :mortar_board:Education
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
