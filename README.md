@@ -16,19 +16,19 @@ Also I Loves travel & volunteer around the world:green_heart:
 - DBA: OS(Mac, Linux, Window), SQL(MySql, etc.)
 
 ### :sparkles:Projects
-- [Java] Jenetics Algorithm with TSP problem
-- [Web] Big Data Analyzer
-- [OODP] Data-based Costume Recommender
-- [C, C++, Software Testing] Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System
-- [C, C++, Software Testing] Fuzzing Algorithm Analysis
-- [OpenGL] Save the Arctic
+- [Java] Jenetics Algorithm with TSP problem<br><https://github.com/Hyorm/TSP_Genetics>
+- [Web] Big Data Analyzer<br><https://github.com/Hyorm/Web>
+- [OODP] Data-based Costume Recommender<br><https://github.com/Hyorm/CLTRec_18>    
+- [C, C++, Software Testing] Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System (Paper)
+- [C, C++, Software Testing] Fuzzing Algorithm Analysis<br><https://github.com/Hyorm/RA_fuzzing>    
+- [OpenGL] Save the Arctic<br><https://github.com/Hyorm/Save_the_Arctic>    
 
 ### :mortar_board:Education
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 
 ### :mag:Experience
 #### [Research Internship]
-- 2017.09 ~ 2018.06 한동대학교 ARISE LAB 연구실 – JAVA Genertic Algorithm<br>
+- 2017.09 ~ 2018.06 한동대학교 ARISE LAB 연구실 – JAVA Genetic Algorithm<br>
 - 2018.06 ~ 2019.08 한동대학교 ARISE LAB 캡스톤 프로젝트 – Concolic Testing<br>
 - 2020.01 ~ 2020.08 한동대학교 ARISE LAB 연구 인턴 – Fuzzing Algorithm<br>
 #### [Teaching Assistant]
