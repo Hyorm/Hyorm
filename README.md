@@ -10,18 +10,18 @@ Also I Loves traveling & volunteering around the world:green_heart:
 
 ### :computer:Personal Skill
 - Language: C, C++, Java, Java Swing, Python
-- Server-Side Script: Bash, PHP, Python, Java Script, HTML
+- Server-Side Script: Bash, PHP, Python, Java Script, HTML, Gradle, Ant
 - Vision Programming: OpenCV, OpenGL(with ODE)
 - Software Testing: Fuzzer(Angora, AFL, LibFuzzer), Concolic testing
 - DBA: OS(Mac, Linux, Window), SQL(MySql, etc.)
 
 ### :sparkles:Projects
-- [Java] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
+- [Java, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 - [Web] [Big Data Analyzer](https://github.com/Hyorm/Web)
-- [OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
+- [Java, OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
 - [C, C++, Software Testing] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/Hyorm/Hyorm/blob/main/README.md#page_facing_uppaper) (Paper)
 - [C, C++, Software Testing] [Fuzzing Algorithm Analysis](https://github.com/Hyorm/RA_fuzzing)
-- [OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
+- [C++, OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
 
 ### :mortar_board:Education
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
