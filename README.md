@@ -9,7 +9,7 @@ Also I Loves travel & volunteer around the world:green_heart:
 - CRESTIVE-DX: 임베디드 소프트웨어에 대해 테스트케이스 생성을 지원하는 분산 Concolic 테스팅 도구(KCSE2020)
 
 ### :computer:Personal Skill
-- Language: C, C++, Java, Java Swing
+- Language: C, C++, Java, Java Swing, Python
 - Server-Side Script: Bash, PHP, Python, Java Script, HTML
 - Vision Programming: OpenCV, OpenGL(with ODE)
 - Software Testing: Fuzzer(Angora, AFL, LibFuzzer), Concolic testing
