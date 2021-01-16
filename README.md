@@ -3,7 +3,7 @@ I'm Hyorim Kim a 23 years old(Korean age: 24) who has a strong passion and inter
 My greatest concern is automation technology using software.
 Also I like to learn new and complex languages and skills and to create new technologies that are safe and reliable.    
 The world is wide and there is a lot of data, so I look forward to learning it and creating new things!    
-Also I Loves travel & volunteer around the world:green_heart:
+Also I Loves traveling & volunteering around the world:green_heart:
 
 ### :page_facing_up:Paper
 - CRESTIVE-DX: 임베디드 소프트웨어에 대해 테스트케이스 생성을 지원하는 분산 Concolic 테스팅 도구(KCSE2020)
