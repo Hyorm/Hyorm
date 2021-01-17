@@ -14,6 +14,7 @@ Also I Loves traveling & volunteering around the world:green_heart:
 - Vision Programming: OpenCV, OpenGL(with ODE)
 - Software Testing: Fuzzer(Angora, AFL, LibFuzzer), Concolic testing
 - DBA: OS(Mac, Linux, Window), SQL(MySql, etc.)
+- etc.: Apache(web), AWS(platform)
 
 ### :sparkles:Projects
 - [Java, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
