@@ -27,10 +27,10 @@ Also I Loves traveling & volunteering around the world:green_heart:
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 
 ### :mag:Experience
-#### [Research Internship]
+#### [Research Assistant]
 - 2017.09 ~ 2018.06 한동대학교 ARISE LAB 연구실 – JAVA Genetic Algorithm<br>
 - 2018.06 ~ 2019.08 한동대학교 ARISE LAB 캡스톤 프로젝트 – Concolic Testing<br>
-- 2020.01 ~ 2020.08 한동대학교 ARISE LAB 연구 인턴 – Fuzzing Algorithm<br>
+- 2020.01 ~ 2020.08 한동대학교 ARISE LAB Research Internship – Fuzzing Algorithm<br>
 #### [Teaching Assistant]
 - 2018-1 ~ 2018-2 소프트웨어 입문<br>
 - 2018-1 컴퓨터 및 전자공학개론<br>
