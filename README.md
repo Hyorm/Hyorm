@@ -19,6 +19,7 @@ Also I Loves traveling & volunteering around the world:green_heart:
 ### :sparkles:Projects
 - [Java, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 - [Web, SQL] [Big Data Analyzer](https://github.com/Hyorm/Web)
+- [Java, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
 - [Java, Java Swing, OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
 - [Java, Java Swing, OODP, SQL] [Customized Drink Recommander](https://github.com/Hyorm/CDR)
 - [C, C++, Embedded, Software Testing] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/ARISE-Handong/crestive) (Paper)
