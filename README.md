@@ -13,7 +13,7 @@ Also I Loves traveling & volunteering around the world:green_heart:
 - Server-Side Script: Bash, PHP, Python, Java Script, HTML, CSS, Gradle, Ant, Makefile
 - Vision Programming: OpenCV, OpenGL(with ODE)
 - Software Testing: Fuzzer(Angora, AFL, LibFuzzer), Concolic testing
-- DBA: OS(Mac, Linux, Window), SQL(MySql, etc.)
+- Server Platform: OS(Mac, Linux, Window), RDBMS(SQL(MySql, etc.))
 - etc.: Apache(web), AWS(platform)
 
 ### :sparkles:Projects
