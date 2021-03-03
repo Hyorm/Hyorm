@@ -47,6 +47,3 @@ Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 ### :trophy:Awards
 - 경북대학교 지역선도대학, 2019 대경권 대학생 프로그래밍 경진대회, 장려상, 2019.05.11<br>
 - KCSE 한국 정보과학회, 2020 한국 소프트웨어공학 학술대회, 우수 논문상, 2020.02.04<br>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyorm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
