@@ -8,6 +8,7 @@ Also I Loves traveling & volunteering around the world:blue_heart:
 
 ### :page_facing_up:Paper
 - [CRESTIVE-DX: 임베디드 소프트웨어에 대한 테스트케이스 생성을 지원하는 분산 Concolic 테스팅 도구의 설계와 구현(KCSE2020)](http://sigsoft.or.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2506) - P191
+- [CRESTIVE-DX: 임베디드 소프트웨어에 대한 테스트케이스 생성을 지원하는 분산 Concolic 테스팅 도구의 설계와 구현(Journal)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002615965)
 
 ### :computer:Personal Skill
 - Language: C(Native), C++(Native), Java(Native), Java Swing, Python, Swift
