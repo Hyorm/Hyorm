@@ -40,7 +40,7 @@ Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 - 2018-1 ~ 2018-2 소프트웨어 입문<br>
 - 2018-1 컴퓨터 및 전자공학개론<br>
 - 2018-1 오픈소스 소프트웨어(Tutor)<br>
-- 2019-W, 2020-W 소프트웨어 입문(예비대학 캠프)
+- 2019, 2020-W 소프트웨어 입문(예비대학 캠프)
 - 2019-1 임베디드프로세서응용<br>
 - 2020-2 ICT 응용 입문<br>
 #### [Grobal IT Education Volunteering]
