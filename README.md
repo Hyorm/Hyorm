@@ -4,7 +4,7 @@ My biggest concern is developing advanced technologies, connecting technologies 
 Also I like to learn new and complex languages and skills and to create new technologies that are safe and reliable.    
 The world is wide and there are many new things!
 I'm looking forward to learning it and creating new things through imagination!
-Also I Loves traveling & volunteering around the world:blue_heart:
+Also I Loves traveling & volunteering around the world:green_heart:
 
 ### :page_facing_up:Paper
 - [CRESTIVE-DX: 임베디드 소프트웨어에 대한 테스트케이스 생성을 지원하는 분산 Concolic 테스팅 도구의 설계와 구현(KCSE2020)](http://sigsoft.or.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2506) - P191
