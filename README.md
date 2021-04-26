@@ -1,7 +1,7 @@
 ### 👋About me 
 I'm Hyorim Kim a 23 years old(Korean age: 24) who has a strong passion and interest for software engineering & computer programming!    
 My biggest concern is developing advanced technologies, connecting technologies where the underprivileged need them, and making the world happier.
-Also I like to learn new and complex languages and skills and to create new technologies that are safe and reliable.    
+Also I like to learn new and complex languages and skills and to create new technologies that are safe, efficient and reliable.    
 The world is wide and there are many new things!
 I'm looking forward to learning it and creating new things through imagination!
 Also I Love traveling & volunteering around the world:green_heart:
