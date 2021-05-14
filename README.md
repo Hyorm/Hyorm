@@ -43,7 +43,7 @@ Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 - 2019, 2020-W 소프트웨어 입문(예비대학 캠프)
 - 2019-1 임베디드프로세서응용<br>
 - 2020-2 ICT 응용 입문<br>
-#### [Global IT Education Volunteering]
+#### [IT Education Volunteering]
 - 2017.07 (월드프렌즈 국제기구 ICT협력단) 인도네시아 IT 교육 담당<br>
 - 2018.01 (스리랑카ICT봉사단)Conerstone College IT 교육 담당
 
