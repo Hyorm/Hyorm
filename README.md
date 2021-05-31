@@ -26,7 +26,6 @@ Also I Love traveling & volunteering around the world:green_heart:
 - [Java, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 - [Web, SQL, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
 - [Java, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
-
 - [C++, OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
 
 ### :mortar_board:Education
