@@ -33,20 +33,22 @@ Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
 
 ### :mag:Experience
 #### [Research Assistant]
-- 2017.09 ~ 2018.06 한동대학교 ARISE LAB 연구실 – JAVA Genetic Algorithm<br>
-- 2018.06 ~ 2019.08 한동대학교 ARISE LAB 캡스톤 프로젝트 – Concolic Testing<br>
 - 2019.12 ~ 2020.06 한동대학교 ARISE LAB Research Internship – Fuzzing Algorithm<br>
+- 2018.06 ~ 2019.08 한동대학교 ARISE LAB 캡스톤 프로젝트 – Concolic Testing<br>
+- 2017.09 ~ 2018.06 한동대학교 ARISE LAB 연구실 – JAVA Genetic Algorithm<br>
+
 #### [Teaching Assistant]
-- 2018-1 ~ 2018-2 소프트웨어 입문<br>
-- 2018-1 컴퓨터 및 전자공학개론<br>
-- 2018-1 오픈소스 소프트웨어(Tutor)<br>
+- 2020-2 ICT 응용 입문<br>
 - 2019, 2020-W 소프트웨어 입문(예비대학 캠프)
 - 2019-1 임베디드프로세서응용<br>
-- 2020-2 ICT 응용 입문<br>
+- 2018-1 ~ 2018-2 소프트웨어 입문<br>
+- 2018-1 오픈소스 소프트웨어(Tutor)<br>
+- 2018-1 컴퓨터 및 전자공학개론<br>
+
 #### [IT Education Volunteering]
+- 2018.01 (스리랑카ICT봉사단)Conerstone College IT 교육 담당<br>
 - 2017.07 (월드프렌즈 국제기구 ICT협력단) 인도네시아 IT 교육 담당<br>
-- 2018.01 (스리랑카ICT봉사단)Conerstone College IT 교육 담당
 
 ### :trophy:Awards
-- 경북대학교 지역선도대학, 2019 대경권 대학생 프로그래밍 경진대회, 장려상, 2019.05.11<br>
 - KCSE 한국 정보과학회, 2020 한국 소프트웨어공학 학술대회, 우수 논문상, 2020.02.04<br>
+- 경북대학교 지역선도대학, 2019 대경권 대학생 프로그래밍 경진대회, 장려상, 2019.05.11<br>
