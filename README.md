@@ -20,18 +20,18 @@ Also I Love traveling & volunteering around the world:green_heart:
 
 ### :sparkles:Projects
 #### 2020
-- [C, C++, Bash, Software Testing] [Fuzzing Algorithm Analysis](https://github.com/Hyorm/RA_fuzzing)
+- [C, C++, Bash, Makefile, Software Testing] [Fuzzing Algorithm Analysis](https://github.com/Hyorm/RA_fuzzing)
 - [C++, OpenGL] [Save the Arctic](https://github.com/Hyorm/Save_the_Arctic)
 #### 2018 ~ 2019, 2020
 - [C, C++, Bash, Makefile, Embedded, Server, Software Testing, Distribute System] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/ARISE-Handong/crestive) (Paper)
 #### 2018
-- [Java, Java Swing, OODP] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
-- [Java, Java Swing, OODP, SQL] [Customized Drink Recommander](https://github.com/Hyorm/CDR)
+- [Java, Java Swing, OODP, Ant] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
+- [Java, Java Swing, OODP, SQL, Ant] [Customized Drink Recommander](https://github.com/Hyorm/CDR)
 
 #### 2017
 - [Web, SQL, Server, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
-- [Java, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
-- [Java, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
+- [Java, Ant, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
+- [Java, Ant, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 
 ### :mortar_board:Education
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
