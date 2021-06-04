@@ -29,7 +29,7 @@ Also I Love traveling & volunteering around the world:green_heart:
 - [Java, Java Swing, OODP, SQL, Ant] [Customized Drink Recommander](https://github.com/Hyorm/CDR)
 
 #### 2017
-- [Web, SQL, lunux, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
+- [Web, SQL, linux, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
 - [Java, Ant, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
 - [Java, Ant, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 
