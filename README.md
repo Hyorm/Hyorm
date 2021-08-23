@@ -34,7 +34,7 @@ Also I Love traveling & volunteering around the world:green_heart:
 - [Java, Ant, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
 
 ### :mortar_board:Education
-Candidate for B.S. of Computer Science and Engineering, Handong University, 2021
+Candidate for B.S. of Computer Science and Engineering, Handong University, 2022
 
 ### :mag:Experience
 #### [Research Assistant]
