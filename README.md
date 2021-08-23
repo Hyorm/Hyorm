@@ -26,7 +26,7 @@ Also I Love traveling & volunteering around the world:green_heart:
 - [C, C++, Bash, Makefile, Embedded, linux, Software Testing, Distribute System] [Remote Constraint Solving for Efficient Concolic Testing on Target Embedded System](https://github.com/LeemHyeRin/CREST-MI-for-Raspberrypi) (Paper)
 #### 2018
 - [Java, Java Swing, OODP, Ant] [Data-based Costume Recommender](https://github.com/Hyorm/CLTRec_18)
-- [Java, Java Swing, OODP, SQL, Ant] [Customized Drink Recommander](https://github.com/Hyorm/CDR)
+- [Java, Java Swing, OODP, SQL, Ant] [Customized Drink Recommender](https://github.com/Hyorm/CDR)
 
 #### 2017
 - [Web, SQL, linux, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
