@@ -32,6 +32,7 @@ Also I Love traveling & volunteering around the world:green_heart:
 - [Web, SQL, linux, AWS] [Big Data Analyzer](https://github.com/Hyorm/Web)
 - [Java, Ant, Data] [Market Basket Model Analysis with Kaggle Data](https://github.com/Hyorm/MBMAKD)
 - [Java, Ant, Algorithm] [Jenetics Algorithm with TSP problem](https://github.com/Hyorm/TSP_Genetics)
+- [C++, OpenCV] [Safety Helper for Sleeping Babies](https://github.com/Hyorm/Safety_Helper_for_Sleeping_Babies)
 
 ### :mortar_board:Education
 Candidate for B.S. of Computer Science and Engineering, Handong University, 2022
