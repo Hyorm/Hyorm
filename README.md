@@ -12,7 +12,7 @@ Also I Love traveling & volunteering around the world:green_heart:
 
 ### :computer:Personal Skill
 - Language: C(Native), C++(Native, fluent), Java(Native), Java Swing, Python, Swift
-- Server-Side Script: Bash, PHP, Python, Java Script, HTML, CSS, Gradle, Ant, Makefile
+- Server-Side Script: Bash, PHP, Python, Java Script, HTML, CSS, Ant, Makefile
 - Vision Programming: OpenCV, OpenGL(with ODE)
 - Software Testing: Fuzzer(Angora, AFL, LibFuzzer), Concolic testing
 - Server Platform: OS(Mac, Linux, Window), RDBMS(SQL(MySql, etc.))
