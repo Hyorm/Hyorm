@@ -56,5 +56,5 @@ Candidate for B.S. of Computer Science and Engineering, Handong University, 2022
 - 2017.07 (월드프렌즈 국제기구 ICT협력단) 인도네시아 IT 교육 담당<br>
 
 ### :trophy:Awards
-- KCSE 한국 정보과학회, 2020 한국 소프트웨어공학 학술대회, 우수 논문상, 2020.02.04<br>
+- KCSE 한국 정보과학회, 2020 한국 소프트웨어공학 학술대회, 우수단편논문상, 2020.02.04<br>
 - 경북대학교 지역선도대학, 2019 대경권 대학생 프로그래밍 경진대회, 장려상, 2019.05.11<br>
